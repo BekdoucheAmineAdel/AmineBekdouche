@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a motivated engineer with a strong foundation 
 - **Location**: France
 - **Email**: amineadelbekdouche@gmail.com
 - **LinkedIn**: [linkedin.com/in/aminebekdouche](https://www.linkedin.com/in/aminebekdouche)
-- **Education**: Master’s in Electronic Sensors & IoT, Université de Montpellier (2023–2025)
+- **Education**: Master’s in Electronics, Sensors & IoT, Université de Montpellier (2023–2025)
 
 ---
 
