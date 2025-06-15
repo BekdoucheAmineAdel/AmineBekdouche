@@ -59,15 +59,6 @@ Welcome to my GitHub profile! I'm a motivated engineer with a strong foundation 
 
 ---
 
-## 🚀 Projects
-
-- **Flexible Pressure Sensor**: Designed and tested a flexible sensor for spinal diagnostics.
-- **Impedance Meter**: Miniaturized a biomedical impedance meter with ESP32 and AD5933.
-- **Smart Parking System**: IoT-based autonomous parking solution using sensors and microcontrollers.
-- **Energy Harvesting IoT Node**: Developed a low-power IoT node with energy harvesting capabilities.
-
----
-
 ## 🎓 Education
 
 - **Master’s in Electronic Sensors & IoT** – Université de Montpellier (2023–2025)  
